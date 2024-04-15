@@ -30,3 +30,4 @@ struct StartOption_Previews : PreviewProvider{
             .background(option.colour)
     }
 }
+
